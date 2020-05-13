@@ -3,4 +3,5 @@
 common {
   slackChannel = ''
   upstreamProjects = 'confluentinc/common'
+  testbreakReporting = false
 }
